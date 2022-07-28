@@ -1,0 +1,5 @@
+key
+ressources/
+__pycache__/
+*.db
+
